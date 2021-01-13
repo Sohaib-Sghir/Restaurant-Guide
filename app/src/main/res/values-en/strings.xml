@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Restaurant Guide</string>
+    <string name="authentification_msg" >Authentification</string>
+    <string name="authentification_login">Enter your Email</string>
+    <string name="authentification_password" >Enter your Password</string>
+    <string name="authentification_button_login" >Sing in</string>
+    <string name="activity_list_restaurant">Restaurant\'s List</string>
+    <string name="activity_menu_restaurant">Menu of</string>
+    <string name="activity_category">Categories</string>
+    <string name="search_category">Search</string>
+    <string name="call_restaurant_button">Call</string>
+    <string name="current_location_button">Current Location</string>
+    <string name="itineraire_button">Go to Restaurant</string>
+    <string name="see_menu_button">See Menu</string>
+    <string name="food_description_title">How to prepare this meal?</string>
+
+
+    <string name="register_msg">Register</string>
+    <string name="register_name">Enter your Name</string>
+
+    <string name="register_button">Sign up</string>
+    <string name="save_data">Save my data</string>
+
+    <string name="link_to_login_activity"><a href="">Sign in</a></string>
+    <string name="link_to_register_activity"><a>Sign up</a></string>
+
+    <string name="error_internet">Turn ON wifi or Data mobile</string>
+    <string name="error_gps">Turn ON GPS</string>
+    <string name="warning_title">Warning</string>
+
+
+    <string name="empty_fields">You must fill in all the fields</string>
+    <string name="email_not_found">Email not found</string>
+    <string name="password_incorrect">Password incorrect</string>
+    <string name="email_already_exists">Email already exists</string>
+    <string name="invalid_email">Invalid email try: exemple@exemple.com</string>
+
+    <string name="successLogin_title">Welcome</string>
+    <string name="successLogin_message">You are now logged in</string>
+
+
+    <string name="help_title">
+       Help
+    </string>
+
+    <string name="help_description">
+        If you find any error in this app
+        do not hesitate to contact me, here is my email: sohaybisbgh@gmail.com
+    </string>
+    <string name="help_price">
+       NB : It will costs 5$/hour
+    </string>
+
+
+
+</resources>

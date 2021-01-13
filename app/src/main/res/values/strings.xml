@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">Restaurant Guide</string>
+    <string name="authentification_msg">Authentification</string>
+    <string name="authentification_login">Entrer ton Email</string>
+    <string name="authentification_password">Entrer ton mot de passe</string>
+    <string name="authentification_button_login">Se connecter</string>
+    <string name="activity_list_restaurant">Liste des restaurants</string>
+    <string name="activity_menu_restaurant">Menu de</string>
+    <string name="activity_category">Catégories</string>
+    <string name="search_category">Chercher</string>
+    <string name="call_restaurant_button">Appeler</string>
+    <string name="current_location_button">Position Actuelle</string>
+    <string name="itineraire_button">Aller au Restaurant</string>
+    <string name="see_menu_button">Voir le Menu</string>
+    <string name="food_description_title">Comment préparer ce repas ?</string>
+
+    <string name="register_msg">Enregistrez-vous</string>
+    <string name="register_name">Entrer ton Nom</string>
+
+    <string name="register_button">Confirmer</string>
+    <string name="save_data">Rester connecté</string>
+    <string name="link_to_login_activity"><a href="">Se connecter</a></string>
+    <string name="link_to_register_activity"><a href="">Enregistrez-vous</a></string>
+    <string name="warning_title">Alerte</string>
+
+
+    <string name="error_internet">Activez wifi ou Données mobile</string>
+    <string name="error_gps">Activez GPS</string>
+    <string name="empty_fields">Il faut remplir tout les champs</string>
+    <string name="email_not_found">Cet email n\'existe pas</string>
+    <string name="password_incorrect">Le mot de passe est incorrecte</string>
+    <string name="email_already_exists">Cet email existe déjà</string>
+    <string name="invalid_email">Il faut que l\'email soit : exemple@exemple.com</string>
+
+    <string name="successLogin_title">Bienvenue</string>
+    <string name="successLogin_message">Vous êtes maintenant connecté</string>
+
+    <string name="help_title">
+       Aide
+    </string>
+    <string name="help_description">
+        Si vous trouvez une erreur dans cette application
+        n\'hesitez pas à me contacter, voici mon email : sohaybisbgh@gmail.com.
+    </string>
+    <string name="help_price">
+       NB : Ca va coûter 5$/heure
+    </string>
+
+
+
+</resources>

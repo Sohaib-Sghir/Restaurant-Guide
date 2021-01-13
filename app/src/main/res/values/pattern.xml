@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_pattern" translatable="false">"^[\w!#$%'*+/=?`{|}~^-]+(?:\.[\w!#$%;'*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,6}$"</string>
+</resources>
