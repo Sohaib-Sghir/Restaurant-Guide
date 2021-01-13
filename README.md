@@ -1,5 +1,5 @@
 # Restaurant guide
-Ide : Android Studio
+Ide : Android Studio \n
 Language used : Java
 what this app do : 
 1 - list all the restaurants in the data base.
